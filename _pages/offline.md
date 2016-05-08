@@ -39,3 +39,4 @@ When you regain connection this page will be loaded.
 
 <script src="https://technutty.co.uk/TicTac/tictactoe.js"></script>
 <script src="https://technutty.co.uk/TicTac/config.js"></script>
+<script src="https://technutty.co.uk/TicTac/styles.css"></script>
