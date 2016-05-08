@@ -31,7 +31,7 @@ cb_lb_offset:
 <h2>You are offline</h2>
 It seems as though your Wi-Fi or mobile data connection is not working, and as you do not have a cache of this page in your browser, we are unable to load the page for you.
 
-When you regain connection this page will be loaded. Why not grab a game of Tic Tac Toe whilst you wait?
+Why not grab a game of Tic Tac Toe whilst you wait? This page will reload once you have gained connection.
 
 <div id="offline-game" style="background-color:transparent;">
 <iframe border="0px" src="https://technutty.co.uk/TicTac/" width="100%" height="490px"></iframe>
