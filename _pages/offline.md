@@ -34,5 +34,5 @@ It seems as though your Wi-Fi or mobile data connection is not working, and as y
 When you regain connection this page will be loaded.
 
 <div id="offline-game" style="background-color:transparent;">
-<iframe src="https://technutty.co.uk/TicTac/" width="100%" height="450px"></iframe>
+<iframe src="https://technutty.co.uk/TicTac/" width="100%" height="490px"></iframe>
 		</div><!--#game-->
