@@ -8,11 +8,11 @@ layout: page
 permalink: https://technutty.co.uk/offline/
 published: true
 cb_featured_image_style:
-  - standard
+  - 'off'
 cb_post_fis_header:
   - 'on'
 cb_full_width_post:
-  - sidebar
+  - nosidebar-fw
 cb_page_title:
   - 'on'
 cb_page_custom_sidebar:
