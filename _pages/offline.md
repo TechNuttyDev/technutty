@@ -28,4 +28,7 @@ cb_lb_category_filter:
 cb_lb_offset:
   - "0"
 ---
-You browser is offline and you don't have a cached version of this page.
+<h2>You are offline</h2>
+It seems as though your Wi-Fi or mobile data connection is not working, and as you do not have a cache of this page in your browser, we are unable to load the page for you.
+
+When you regain connection this page will be loaded.
